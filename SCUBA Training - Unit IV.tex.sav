@@ -1,0 +1,521 @@
+    % Unit IV.
+    \chapter*{Unit IV}
+    \setcounter{questionnumber}{0}
+
+    % 1.
+    \begin{qanda}
+\question{What are five uses for a surface float?}
+
+\answer{The uses for a surface float are:
+    \begin{numberedlist}
+        \item Resting
+        \item Marking a dive site
+        \item Assisting another diver
+        \item Carrying things
+        \item Supporting a dive flag
+    \end{numberedlist}}
+    \end{qanda}
+
+    % 2.
+    \begin{qanda}
+\question{What do you do to avoid entanglement in a line connected to a surface float?}
+
+\answer{Carry the line on a reel or line caddie.}
+    \end{qanda}
+
+    % 3.
+    \begin{qanda}
+\question{Why should you use a dive flag when diving?}
+
+\answer{For safety to alert or traffic that you are present.}
+    \end{qanda}
+
+    % 4.
+    \begin{qanda}
+\question{How close should you stay to a dive flag, and how far should boats, skiers, and water craft stay away if there are no local laws governing these distances?}
+
+\answer{You should stay within 50 feet and others should stay 100 feet or more away.}
+    \end{qanda}
+
+    % 5.
+    \begin{qanda}
+\question{What three features does a typical collecting bag have, and why would you have a collecting bag?}
+
+\answer{You use a collecting bag when you need to carry several objects while diving.  The features include:
+    \begin{numberedlist}
+        \item Made of mesh (usually nylon) so that it drains quickly
+        \item A wire frame to hold the top open or closed
+        \item A lock so they stay shut
+    \end{numberedlist}}
+    \end{qanda}
+
+    % 6.
+    \begin{qanda}
+\question{You might take an underwater light on a dive during the day for what two reasons?}
+
+\answer{For illuminating and restoring color at depth as well as for looking into dark cracks and crevices.}
+    \end{qanda}
+
+    % 7.
+    \begin{qanda}
+\question{What are two reasons for carrying an underwater slate as a regular part of your dive gear?}
+
+\answer{You can use it to communicate and for noting information like time and depth limits and making notes for your log book.}
+    \end{qanda}
+
+    % 8.
+    \begin{qanda}
+\question{Why should you take a spare-parts kit with you when you dive?}
+
+\answer{It minimizes the probability of missing dives due to minor problems like broken fin straps.}
+    \end{qanda}
+
+    % 9.
+    \begin{qanda}
+\question{What do you put in a spare-parts kit?}
+
+\answer{Keep in your kit:
+    \begin{numberedlist}
+        \item Mask strap
+        \item Fin strap
+        \item O-rings
+        \item Silicone lubricant
+        \item Snorkel keeper
+        \item Cement for exposure suit repairs
+        \item Waterproof plastic tape
+        \item Quick-release buckle
+        \item Pocket knife
+        \item Pliers
+        \item Adjustable wrench
+        \item Screwdrivers
+        \item Spare sunglasses, sunscreen, motion sickness medication
+    \end{numberedlist}}
+    \end{qanda}
+
+    % 10.
+    \begin{qanda}
+\question{There are three primary reasons for keeping a log book, what are they?}
+
+\answer{The primary reasons for keeping a log book are:
+    \begin{numberedlist}
+%        \item It shows a divemaster or charter crew how frequently you dive, what type of dives you've made, the environments that you have experience with et cetera.
+%        \item It's a proof-of-experience document often requested for diver tg\raining, and when diving at resorts or on boats.
+%        \item It helps you asses how our experience contributes to your diving ability and the dive opportunities open to you.
+        \item It helps you remember your dive experiences
+        \item To document your history as a diver
+        \item Note specific details about a dive site for future reference
+    \end{numberedlist}}
+    \end{qanda}
+
+    % 11.
+    \begin{qanda}
+\question{What three substances should you avoid using prior to diving?}
+
+\answer{You should avoid:
+    \begin{numberedlist}
+        \item Alcohol
+        \item Tobacco
+        \item Drugs
+    \end{numberedlist}}
+    \end{qanda}
+
+    % 12.
+    \begin{qanda}
+\question{How often is it recommended that you have a complete physical examination by a physician?}
+
+\answer{Every two years.}
+    \end{qanda}
+
+    % 13.
+    \begin{qanda}
+\question{What two immunizations should divers keep up to date?}
+
+\answer{Tetanus and typhoid.}
+    \end{qanda}
+
+    % 14.
+    \begin{qanda}
+\question{What can you do to maintain your dive skills or restore them after inactivity?}
+
+\answer{Be an active diver to retain your skills.  If you need to refresh your skills review the manual and video or take a review class.}
+    \end{qanda}
+
+    % 15.
+    \begin{qanda}
+\question{What effect does menstruation have on diving?}
+
+\answer{If it doesn't keep you from other activities it won't keep you from diving.}
+    \end{qanda}
+
+    % 16.
+    \begin{qanda}
+\question{Why is it recommended that pregnant women not dive?}
+
+\answer{The effects on the fetus are unknown.}
+    \end{qanda}
+
+    % 17.
+    \begin{qanda}
+\question{What two primary gases make up air?}
+
+\answer{Nitrogen and oxygen.}
+    \end{qanda}
+
+    % 18.
+    \begin{qanda}
+\question{What are five possible symptoms of contaminated air?}
+
+\answer{Five possible symptoms of contaminated air are:
+    \begin{numberedlist}
+        \item Headaches
+        \item Nausea
+        \item Dizziness
+        \item Unconsciousness
+        \item Cherry-red lisps and fingernail beds
+    \end{numberedlist}}
+    \end{qanda}
+
+    % 19.
+    \begin{qanda}
+\question{What should you do for a diver suspected of breathing contaminated air?}
+
+\answer{Give them fresh air and administer oxygen if available.  Medical attention should be sought.}
+    \end{qanda}
+
+    % 20.
+    \begin{qanda}
+\question{How do you prevent problems with contaminated air?}
+
+\answer{Buy air from a reputable air source such as professional dive stores. They should be filled only with pure, dry, filtered compressed air.}
+    \end{qanda}
+
+    % 21.
+    \begin{qanda}
+\question{How do you prevent problems with oxygen?}
+
+\answer{Do not have your cylinder filled with enriched air or use a cylinder that have been filled with enriched air.  Don't use enriched air unless properly trained.}
+    \end{qanda}
+
+    % 22.
+    \begin{qanda}
+\question{What are five symptoms of nitrogen narcosis?}
+
+\answer{Symptoms of nitrogen narcosis are:
+    \begin{numberedlist}
+        \item Impaired judgment
+        \item Impaired coordination
+        \item A false sense of security
+        \item Disregard for safety
+        \item Foolish behavior
+    \end{numberedlist}}
+    \end{qanda}
+
+    % 23.
+    \begin{qanda}
+\question{What should you do if nitrogen narcosis becomes a problem?}
+
+\answer{Immediately ascend to shallower depths  to relieve the narcosis.}
+    \end{qanda}
+
+    % 24.
+    \begin{qanda}
+\question{How do you prevent nitrogen narcosis?}
+
+\answer{Avoid deep dives.}
+    \end{qanda}
+
+    % 25.
+    \begin{qanda}
+\question{What two primary factors influence the absorption and elimination of nitrogen in a diver?}
+
+\answer{How deep you dive and for how long.}
+    \end{qanda}
+
+    % 26.
+    \begin{qanda}
+\question{What condition occurs when a diver exceeds established depth and time limits, producing bubbles in the body during and following ascent?}
+
+\answer{Decompression sickness.}
+    \end{qanda}
+
+    % 27.
+    \begin{qanda}
+\question{What nine secondary factors can influence the absorption and elimination of nitrogen from the body?}
+
+\answer{Secondary factors influence absorption and elimination of nitrogen are:
+    \begin{numberedlist}
+        \item Fatigue
+        \item Dehydration
+        \item Vigorous exercise (before, during, of after a dive)
+        \item Cold
+        \item Age
+        \item Illness
+        \item Injuries
+        \item Alcohol consumption (before or after a dive)
+        \item Being overweight
+    \end{numberedlist}}
+    \end{qanda}
+
+    % 28.
+    \begin{qanda}
+\question{What signs and symptoms are associated with decompression sickness?}
+
+\answer{Decompression sickness signs can vary, but they may include paralysis, shock, weakness, dizziness, numbness, tingling, difficulty breathing, and varying degrees of joint and limb pain.}
+    \end{qanda}
+
+    % 29.
+    \begin{qanda}
+\question{What is meant by decompression illness versus decompression sickness?}
+
+\answer{Decompression illness includes both lung overexpansion and decompression sickness.  This is because treatment are identical for both and there's no need to distinguish between them when assisting a diver.}
+    \end{qanda}
+
+    % 30.
+    \begin{qanda}
+\question{What is the necessary treatment for a diver suspected of having decompression illness?}
+
+\answer{Discontinue diving, seek medical attention, and consult a dive physician.}
+    \end{qanda}
+
+    % 31.
+    \begin{qanda}
+\question{What is the first aid procedure for assisting someone with decompression illness?}
+
+\answer{Have the diver lie down and breathe oxygen.  Contact local emergency medical care and the local diver emergency service or closest recompression chamber.  Monitor the diver and prevent shock as necessary.  A diver who isn't breathing will need rescue breathing and CPR if there is no pulse.}
+    \end{qanda}
+
+    % 32.
+    \begin{qanda}
+\question{How do you avoid decompression illness?}
+
+\answer{Follow the established safe time and depth limits of dive tables and dive computers.  Continuously breathe and never hold your breath.  Use a slow safe ascent rate with a safety stop at 15 feet.}
+    \end{qanda}
+
+    % 33.
+    \begin{qanda}
+\question{What is the primary use of dive tables and dive computers?}
+
+\answer{To determine your maximum allowable time at given depths.}
+    \end{qanda}
+
+    % 34.
+    \begin{qanda}
+\question{What are meant by no decompression/no-stop diving and decompression diving?}
+
+\answer{You plan your dives so that you can always ascend directly to the surface without stopping, yet without significant risk of decompression sickness.}
+    \end{qanda}
+
+    % 35.
+    \begin{qanda}
+\question{What is a no decompression limit (NDL)?}
+
+\answer{The maximum allowable no-stop time at a given depth.}
+    \end{qanda}
+
+    % 36.
+    \begin{qanda}
+\question{Why should you avoid the maximum limits of dive tables and dive computers?}
+
+\answer{They are models that are based on theories which cannot account for differences in individuals.}
+    \end{qanda}
+
+    % 37.
+    \begin{qanda}
+\question{How does the Recreational Dive Planner distributed by PADI differ from other dive tables?}
+
+\answer{It is designed for making no decompression recreational dives and is generated for a larger range of types of people (sexes and ages).}
+    \end{qanda}
+
+    % 38.
+    \begin{qanda}
+\question{Why is your body nitrogen level higher after a repetitive dive than if you made the same dive as a non-repetitive dive?}
+
+\answer{Because you have residual nitrogen left in your body from the previous dive(s).}
+    \end{qanda}
+
+    % 39.
+    \begin{qanda}
+\question{What is residual nitrogen?}
+
+\answer{The nitrogen left in your body after a dive.}
+    \end{qanda}
+
+    % 40.
+    \begin{qanda}
+\question{What is a repetitive dive?}
+
+\answer{A dive made before you lose all the residual nitrogen from a previous dive is called a repetitive dive.}
+    \end{qanda}
+
+    % 41.
+    \begin{qanda}
+\question{What are the general rules for using the Recreational Dive Planner, and how do you apply them?}
+
+\answer{The general rules for using the RDP are:
+    \begin{numberedlist}
+        \item Bottom time is the total time in minutes from the beginning of descent until the beginning of final ascent to the surface or safety stop.
+        \item Any dive planned to 35 feet or less should be calculated as a dive to 35 feet.
+        \item Use the exact or next greater depth shown for the depths of all dives.
+        \item Slowly ascend from all dives at a rate that does not exceed 60 feet per minute (1 foot per second).
+        \item Always be conservative and avoid using the maximum limits provided.
+        \item When planning a dive in cold water, or under strenuous conditions, plan the dive assuming the depth is 10 feet deeper than the actual depth.
+        \item Plan repetitive dives so each successive dive is to a shallower depth.
+        \item Limit all repetitive dives to 100 feet or shallower.
+        \item Limit your maximum depth to your training and experience level.  Scuba divers are limited to 40 feet.  As an Open Water Diver, limit your dives to a maximum depth of 60 feet.  Divers with greater training and experience should generally limit themselves to a maximum depth of 100 feet.  Divers with appropriate experience and training may dive as deep as 130 feet.  Plan all dives as decompression dives.
+        \item Don't exceed the RDP limits, and whenever possible avoid diving to the limits of the planner.  140 appears on the planner solely for emergencies, don't dive that deep.
+        \item A safety stop for 3 to 5 minutes at 15 feet is recommended at the end of all dives.
+    \end{numberedlist}}
+    \end{qanda}
+
+    % 42.
+    \begin{qanda}
+\question{What is bottom time?}
+
+\answer{The total time in minutes from the beginning of descent until the beginning of final ascent to the surface or safety stop.}
+    \end{qanda}
+
+    % 43.
+    \begin{qanda}
+\question{What is the maximum depth limit for all recreational diving?}
+
+\answer{130 feet.}
+    \end{qanda}
+
+    % 44.
+    \begin{qanda}
+\question{How do you find the NDL for any depth between 0 and 40 meters/130 feet using the Recreational Dive Planner?}
+
+\answer{Enter Table 1 from the top at the maximum depth you will dive to and go down to the time in the black box.}
+    \end{qanda}
+
+    % 45.
+    \begin{qanda}
+\question{What is a pressure group?}
+
+\answer{A pressure group is a way to represent the amount of residual nitrogen in your body after a dive.}
+    \end{qanda}
+
+    % 46.
+    \begin{qanda}
+\question{How do you find the pressure group for a certain dive depth and time using the Recreational Dive Planner?}
+
+\answer{Use Table 1 and enter from the top with your depth and travel down to your time.  The pressure group is on the left.}
+    \end{qanda}
+
+    % 47.
+    \begin{qanda}
+\question{What is a surface interval (SI)?}
+
+\answer{The time on the surface between two dives.}
+    \end{qanda}
+
+    % 48.
+    \begin{qanda}
+\question{How do you find the pressure group after a surface interval using the Recreational Dive Planner?}
+
+\answer{Enter Table 2 from the left with the pressure from Table 1, move to the right to find the box with the times that bracket the surface interval and follow the column down to the bottom.}
+    \end{qanda}
+
+    % 49.
+    \begin{qanda}
+\question{What is residual nitrogen time (RNT)? [Table version only.]}
+
+\answer{The amount of residual nitrogen left in your body, expressed in minutes, left in your body after a dive.}
+    \end{qanda}
+
+    % 50.
+    \begin{qanda}
+\question{How do you find residual nitrogen times on Table 3 of the Recreational Dive Planner for particular depths and pressure groups? [Table version only.]}
+
+\answer{Using your pressure group from Table 2, follow that column down to the row with your depth.  Residual nitrogen time is the white (top) part of the entry.}
+    \end{qanda}
+
+    % 51.
+    \begin{qanda}
+\question{What is an adjusted no decompression limit?}
+
+\answer{The maximum amount of time you can spend at that depth for repetitive dive.}
+    \end{qanda}
+
+    % 52.
+    \begin{qanda}
+\question{How do you find an adjusted no decompression limit on Table 3 of the Recreational Dive Planner, for particular depths and pressure groups? [Table version only.]}
+
+\answer{Using your pressure group from Table 2, follow that column down to the row with your depth.  The adjusted no decompression limit is the blue (bottom) part of the entry.}
+    \end{qanda}
+
+    % 53.
+    \begin{qanda}
+\question{What is a dive profile?}
+
+\answer{A graphical representation of the dive.}
+    \end{qanda}
+
+    % 54.
+    \begin{qanda}
+\question{In drawing a three-dive profile, where do you label:
+    \begin{numberedlist}
+        \item surface intervals?
+        \item pressure groups?
+        \item depths?
+        \item bottom times?
+    \end{numberedlist}}
+
+\answer{You label them (\emph{This needs work.}):
+    \begin{numberedlist}
+        \item Top middle
+        \item To the left and right of the surface interval
+        \item Left side
+        \item Bottom
+    \end{numberedlist}}
+    \end{qanda}
+
+    % 55.
+    \begin{qanda}
+\question{What is actual bottom time (ABT)? [Table version only.]}
+
+\answer{Actual bottom time is the real bottom time spent underwater during a dive (not adjusted for residual nitrogen).}
+    \end{qanda}
+
+    % 56.
+    \begin{qanda}
+\question{What is total bottom time (TBT)? [Table version only.]}
+
+\answer{The total bottom time is the actual bottom time adjusted for residual nitrogen.}
+    \end{qanda}
+
+    % 57.
+    \begin{qanda}
+\question{How do you calculate the total bottom time of a repetitive dive? [Table version only.]}
+
+\answer{By adding the actual bottom time to the residual nitrogen time for your last dive.}
+    \end{qanda}
+
+    % 58.
+    \begin{qanda}
+\question{How do you find the final pressure group after making multiple repetitive dives using the Recreational Dive Planner?}
+
+\answer{The final pressure group after multiple repetitive dives is found by using the total bottom time and depth from your last dive and using Table 1 the same way you did with the first dive.}
+    \end{qanda}
+
+    % 59.
+    \begin{qanda}
+\question{What re the two special rules for repetitive diving?}
+
+\answer{If you are planning 3 or more dives, beginning with the first dive of the day, if your ending pressure group is W or X, the minimum surface interval between all subsequent dives is 1 hour  If your ending pressure roup after any dive is Y or Z, the minimum surface interval between all subsequent dives is 3 hours.  Make repetitive dives to shallower depths than all previous dives.}
+    \end{qanda}
+
+    % 60.
+    \begin{qanda}
+\question{What are the minimum surface intervals that must be made when planning three or more dives when:
+    \begin{numberedlist}
+        \item the ending pressure group after any dive is W or X?
+        \item the ending pressure group after any dive is Y or Z?
+    \end{numberedlist}}
+
+\answer{
+    \begin{numberedlist}
+        \item 1 hour
+        \item 3 hours
+    \end{numberedlist}}
+    \end{qanda} 

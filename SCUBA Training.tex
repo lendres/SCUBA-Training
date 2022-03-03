@@ -1,0 +1,62 @@
+    \documentclass{lebook}
+
+    % Be able to use hypertext references.
+    \usepackage[colorlinks=true,
+                linkcolor=blue,
+                citecolor=blue
+                urlcolor=red,
+                filecolor=red,
+                anchorcolor=black,
+                pagecolor=blue,
+                linktocpage=true
+                ]
+        {hyperref}
+
+    \usepackage{lequestionandanswer}
+
+    \usepackage{lelists}
+   	\setlength{\listtopsep}{0pt}
+
+    \usepackage{lesubscripts}
+
+    \usepackage{legraphicextensions}
+    % Set the search path for figures.  This way we can change it if required without having to modified
+    % all of the \includegraphics calls.
+    \graphicspath{{Figures/}}
+
+    \usepackage{times}
+
+    \begin{document}
+
+    % MAKE A TITLE PAGE.
+    \begin{titlepage}
+
+    \bfseries
+    \Huge \center{PADI Open Water Diver Course:}
+    \huge \center{Study Questions and Answers}
+    \vfill
+
+    \large \center{Compiled by:}
+    \LARGE \center{Lance A. Endres}
+    \large \center{August 2009}
+    \vfill
+
+    \vspace*{28pt}
+    \LARGE \center{Professional Association of Diving Instructors (PADI)}
+    \large \center{30151 Tomas}
+    \large \center{Santa Margarita, CA \ 92688-2125} \\
+    \href{http://www.padi.com}{www.padi.com}
+
+    \normalsize
+    \end{titlepage}
+
+
+    \pagestyle{leplainheader}
+
+    \input{"SCUBA Training - Unit I.tex"}
+    \input{"SCUBA Training - Unit II.tex"}
+    \input{"SCUBA Training - Unit III.tex"}
+    \input{"SCUBA Training - Unit IV.tex"}
+    \input{"SCUBA Training - Unit V.tex"}
+
+    \end{document}

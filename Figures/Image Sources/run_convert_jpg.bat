@@ -1,0 +1,1 @@
+convert_jpg_eps.bat > convertjpg.log
