@@ -3,6 +3,7 @@
 # Temporary and output files
 *.bak
 *.log
+*.sav
 *.dvi
 *.pdf
 *.out
