@@ -1,0 +1,35 @@
+# For Latex Files and associated figures.
+
+# Temporary and output files
+*.bak
+*.log
+*.dvi
+*.pdf
+*.out
+*.aux
+*.bbl
+*.blg
+*.toc
+*.acn
+*.acr
+*.alg
+*.stg
+*.sto
+*.sts
+*.ist
+*.mto
+*.mts
+*.glg
+*.glo
+*.gls
+*.glsdefs
+
+# Files
+Archive/
+Figures/Image Sources/Jpg/Work Product/
+Figures/*.jpg
+Figures/*.eps
+Thumbs.db
+
+_temp.*
+*.sav
