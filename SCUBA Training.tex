@@ -1,65 +1,114 @@
  	% This document requires the use of Lance A. Endres's LaTeX library available at the following location:
 	% https://github.com/lendres/LaTeX
- 
-    \documentclass{lebook}
 
-    % Be able to use hypertext references.
-    \usepackage[colorlinks=true,
-                linkcolor=blue,
-                citecolor=blue
-                urlcolor=red,
-                filecolor=red,
-                anchorcolor=black,
-                pagecolor=blue,
-                linktocpage=true
-                ]
-        {hyperref}
+	\documentclass{lebook}
+	
+%\\question\{
+%		\\begin\{question\}>
+%
+%\}>>\\answer\{
+%>		\\end\{question\}>>		\\begin\{answer\}>
+%
+%\}>	\\end\{qanda
+%>		\\end\{answer\}>	\\end\{qanda
 
-    \usepackage{lequestionandanswer}
+	% Be able to use hypertext references.
+	\usepackage[colorlinks=true,
+				linkcolor=blue,
+				citecolor=blue
+				urlcolor=red,
+				filecolor=red,
+				anchorcolor=black,
+				pagecolor=blue,
+				linktocpage=true
+				]
+		{hyperref}
 
-    \usepackage{lelists}
-   	\setlength{\listtopsep}{0pt}
-
-    \usepackage{lesubscripts}
-
-    \usepackage{legraphicextensions}
-    % Set the search path for figures.  This way we can change it if required without having to modified
-    % all of the \includegraphics calls.
-    \graphicspath{{Figures/}}
-
-    \usepackage{times}
-
-    \begin{document}
-
-    % MAKE A TITLE PAGE.
-    \begin{titlepage}
-
-    \bfseries
-    \Huge \center{PADI Open Water Diver Course:}
-    \huge \center{Study Questions and Answers}
-    \vfill
-
-    \large \center{Compiled by:}
-    \LARGE \center{Lance A. Endres}
-    \large \center{August 2009}
-    \vfill
-
-    \vspace*{28pt}
-    \LARGE \center{Professional Association of Diving Instructors (PADI)}
-    \large \center{30151 Tomas}
-    \large \center{Santa Margarita, CA \ 92688-2125} \\
-    \href{http://www.padi.com}{www.padi.com}
-
-    \normalsize
-    \end{titlepage}
+	\usepackage{lequestionandanswer}
+	\useqandadoublespacing{}
+	\setlength{\qaspacebetweenquestions}{0.25\baselineskip}
 
 
-    \pagestyle{leplainheader}
+	\usepackage{lelists}
+	\setlength{\listtopsep}{0pt}
+	\setlength{\rightlistindent}{0pt}
 
-    \input{"SCUBA Training - Unit I.tex"}
-    \input{"SCUBA Training - Unit II.tex"}
-    \input{"SCUBA Training - Unit III.tex"}
-    \input{"SCUBA Training - Unit IV.tex"}
-    \input{"SCUBA Training - Unit V.tex"}
 
-    \end{document}
+	\newenvironment{nospacebulletedlist}
+	{
+		\stepcounter{listlevel}
+		\begin{list}
+		{$\bullet$\hfill}
+		{
+			\setlength{\labelwidth}{0.40cm}
+			\standardlistparams{}
+			\setlength{\parskip}{0pt}
+		}
+	}
+	{%
+		\vspace*{-\baselineskip}%
+		\end{list}%
+		\addtocounter{listlevel}{-1}%
+	}%
+
+	\newenvironment{nospacenumberedlist}
+	{
+		\stepcounter{listlevel}
+		\begin{list}
+		{\arabic{thenumberedlist}.\hfill} % Label used is our counter.
+		{
+			\usecounter{thenumberedlist}
+			\setlength{\labelwidth}{0.75cm}
+			\standardlistparams{}
+		}
+	}
+	{%
+		\vspace*{-\baselineskip}%
+		\end{list}%
+		\addtocounter{listlevel}{-1}%
+	}%
+
+
+	\usepackage{lesubscripts}
+
+	\usepackage{legraphicextensions}
+	% Set the search path for figures.  This way we can change it if required without having to modified
+	% all of the \includegraphics calls.
+	\graphicspath{{Figures/}}
+
+	\usepackage{times}
+
+	\begin{document}
+
+	% MAKE A TITLE PAGE.
+	\begin{titlepage}
+
+	\bfseries
+	\Huge \center{PADI Open Water Diver Course:}
+	\huge \center{Study Questions and Answers}
+	\vfill
+
+	\large \center{Compiled by:}
+	\LARGE \center{Lance A. Endres}
+	\large \center{August 2009}
+	\vfill
+
+	\vspace*{28pt}
+	\LARGE \center{Professional Association of Diving Instructors (PADI)}
+	\large \center{30151 Tomas}
+	\large \center{Santa Margarita, CA \ 92688-2125} \\
+	\href{http://www.padi.com}{www.padi.com}
+
+	\normalsize
+	\end{titlepage}
+
+
+	\pagestyle{leplainheader}
+
+	\input{"SCUBA Training - Unit I.tex"}
+	\input{"SCUBA Training - Unit II.tex"}
+	\input{"SCUBA Training - Unit III.tex"}
+	\input{"SCUBA Training - Unit IV.tex"}
+	\input{"SCUBA Training - Unit V.tex"}
+
+	\end{document}
